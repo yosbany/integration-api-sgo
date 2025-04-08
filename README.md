@@ -104,4 +104,4 @@ The API returns appropriate HTTP status codes and error messages:
 
 ## License
 
-MIT 
+MIT
